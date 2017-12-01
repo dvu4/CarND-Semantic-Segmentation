@@ -7,6 +7,8 @@ Labelling the pixels of a road in images using a Fully Convolutional Network (FC
 ### Architecture
 Pre-trained VGG-16 is converted to a FCN by converting the fully connected layer to 1x1 convolution and setting the depth of layer to the number of classes (i.e 2 for road and non-road). The performance of the network is enhanced by the skip connections through performing 1x1 convolutions on previous VGG-16 layers (i.e layer 3 and 4) and adding them element-wise to upsampled lower-level layers (i.e 1x1 convolved layer 7 is upsampled, then added to 1x1 convolved layer 4 and repeat for layer 4 and layer 3). 
 
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/skipConnections.png)
+
 ### Optimizer
  - The loss function used is cross entropy 
  - AdamOptimizer is used for optimization
