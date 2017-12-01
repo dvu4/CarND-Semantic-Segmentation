@@ -2,7 +2,7 @@
 ### Introduction
 Training segmentation networks, which paint each pixel of the image a different color, based on its class and use the segmented images to find free space on the road.
 
-Labelling the pixels of a road in images using a Fully Convolutional Network (FCN) with the FCN-8 architecture developed at Berkeley based on [Long et al.: Fully Convolutional Networks for Semantic Segmentation](CarND-Semantic-Segmentation/long_shelhamer_fcn.pdf).
+Labelling the pixels of a road in images using a Fully Convolutional Network (FCN) with the FCN-8 architecture developed at Berkeley based on [Long et al.: Fully Convolutional Networks for Semantic Segmentation](https://github.com/dvu4/CarND-Semantic-Segmentation/blob/master/long_shelhamer_fcn.pdf).
 
 ### Setup
 ##### Frameworks and Packages
