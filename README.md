@@ -5,7 +5,6 @@ Training segmentation networks, which paint each pixel of the image a different 
 Labelling the pixels of a road in images using a Fully Convolutional Network (FCN) with the FCN-8 architecture developed at Berkeley based on [Long et al.: Fully Convolutional Networks for Semantic Segmentation](https://github.com/dvu4/CarND-Semantic-Segmentation/blob/master/long_shelhamer_fcn.pdf).
 
 ### Architecture
----
 Pre-trained VGG-16 is converted to a FCN by converting the fully connected layer to 1x1 convolution and setting the depth of layer to the number of classes (i.e 2 for road and non-road). The performance of the network is enhanced by the skip connections through performing 1x1 convolutions on previous VGG-16 layers (i.e layer 3 and 4) and adding them element-wise to upsampled lower-level layers (i.e 1x1 convolved layer 7 is upsampled, then added to 1x1 convolved layer 4 and repeat for layer 4 and layer 3). 
 
 ### Optimizer
@@ -50,6 +49,7 @@ Sample output images for road classification with the segmentation class overlai
 
 ![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000040.png)
 
+---
 
 ### Setups
 ##### Frameworks and Packages
