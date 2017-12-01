@@ -4,6 +4,19 @@ Training segmentation networks, which paint each pixel of the image a different 
 
 Labelling the pixels of a road in images using a Fully Convolutional Network (FCN) with the FCN-8 architecture developed at Berkeley based on [Long et al.: Fully Convolutional Networks for Semantic Segmentation](https://github.com/dvu4/CarND-Semantic-Segmentation/blob/master/long_shelhamer_fcn.pdf).
 
+### Architecture
+Pre-trained VGG-16 
+
+### Optimizer
+ - The loss function used is cross entropy 
+ - AdamOptimizer is used for optimization
+
+### Training
+The hyperparameters for the training
+ - epochs : 50
+ - batch_size : 5
+ - keep_prob : 0.5
+ - learning_rate : 0.0001
 
 ### Results
 ---
