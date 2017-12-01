@@ -1,6 +1,8 @@
 # Semantic Segmentation
 ### Introduction
-In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
+Training segmentation networks, which paint each pixel of the image a different color, based on its class and use the segmented images to find free space on the road.
+
+Labelling the pixels of a road in images using a Fully Convolutional Network (FCN) with the FCN-8 architecture developed at Berkeley based on [Long et al.: Fully Convolutional Networks for Semantic Segmentation](CarND-Semantic-Segmentation/long_shelhamer_fcn.pdf).
 
 ### Setup
 ##### Frameworks and Packages
@@ -32,5 +34,7 @@ python main.py
  - `project_tests.py`
  - Newest inference images from `runs` folder
  
+
+
  ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
