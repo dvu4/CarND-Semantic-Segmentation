@@ -20,21 +20,21 @@ Sample output images for road classification with the segmentation class overlai
 
 ![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000010.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_0000016.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000016.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_0000026.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000026.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_0000015.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000015.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_0000013.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000013.png)
 
 ![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000004.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_0000029.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000029.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_0000036.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000036.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_0000040.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000040.png)
 
 
 ### Setups
