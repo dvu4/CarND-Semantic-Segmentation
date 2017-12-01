@@ -29,25 +29,25 @@ The hyperparameters for the training
 
 Sample output images for road classification with the segmentation class overlaid upon the input images in green.
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000003.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/1512112488.417907/um_000003.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000010.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/1512112488.417907/um_000010.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000016.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/1512112488.417907/um_000016.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000026.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/1512112488.417907/uu_000000.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000015.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/1512112488.417907/uu_000007.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000013.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/1512112488.417907/umm_000062.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000004.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/1512112488.417907/uu_000095.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000029.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/1512112488.417907/umm_000006.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000036.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/1512112488.417907/umm_000081.png)
 
-![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000040.png)
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/1512112488.417907/umm_000035.png)
 
 ---
 
