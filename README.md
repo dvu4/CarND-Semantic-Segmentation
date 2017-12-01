@@ -4,7 +4,40 @@ Training segmentation networks, which paint each pixel of the image a different 
 
 Labelling the pixels of a road in images using a Fully Convolutional Network (FCN) with the FCN-8 architecture developed at Berkeley based on [Long et al.: Fully Convolutional Networks for Semantic Segmentation](https://github.com/dvu4/CarND-Semantic-Segmentation/blob/master/long_shelhamer_fcn.pdf).
 
-### Setup
+
+### Results
+---
+ - Average loss per batch is below 0.2 after 2 epoches 
+ - Average loss per batch is below 0.1 after 9 epoches
+ - Average loss per batch is below 0.05 after 20 epoches 
+ - Average loss per batch is below 0.039 after 30 epoches
+ - Average loss per batch is below 0.031 after 40 epoches 
+ - Average loss per batch is below 0.022 at 50 epoches 
+
+Sample output images for road classification with the segmentation class overlaid upon the input images in green.
+
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000003.png)
+
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000010.png)
+
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_0000016.png)
+
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_0000026.png)
+
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_0000015.png)
+
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_0000013.png)
+
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_000004.png)
+
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_0000029.png)
+
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_0000036.png)
+
+![alt text](https://raw.githubusercontent.com/dvu4/CarND-Semantic-Segmentation/master/runs/um_0000040.png)
+
+
+### Setups
 ##### Frameworks and Packages
 Make sure you have the following is installed:
  - [Python 3](https://www.python.org/)
